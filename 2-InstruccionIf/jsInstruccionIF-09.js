@@ -1,6 +1,7 @@
 function mostrar()
 {
-	//Genero el número RANDOM entre 1 y 10 
-	alert("ok");	
+	var nota = Math.random();
 
-}//FIN DE LA FUNCIÓN
+    alert(nota);
+
+}

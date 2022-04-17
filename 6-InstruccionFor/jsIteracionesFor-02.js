@@ -1,5 +1,17 @@
 function mostrar()
 {
+let nombre = "nicolas";
+let apellido = " caligari";
 
-	alert("ok");
+if (nombre > apellido ){
+
+}
+
+
+
+
+
+
+
+
 }
